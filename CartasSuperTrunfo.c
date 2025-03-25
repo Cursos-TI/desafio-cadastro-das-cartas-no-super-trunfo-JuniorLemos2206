@@ -14,7 +14,7 @@ int main() {
     float pib;
     int pontos_turisticos;
 
-     //Usuário irá digitar a população.
+     //Usuário 01 irá digitar a população.
      printf("Digite o número da População Carta 01: ");
      scanf("%d", &populacao);
      printf("População: %d\n", populacao);
